@@ -17,6 +17,7 @@ mpg = miles / gallons;
 
 //output
 System.out.println("Miles" +"Per"+ "Gallon:" + mpg);
+s.close();
 }
 
 
